@@ -1,5 +1,6 @@
 # saturno-celestial-beta
-linset modificado linset por vk439 
+
+linset modificado 
 
 Instalacion:
 
@@ -10,3 +11,7 @@ Instalacion:
 ejecutar
 
 3 ./saturno
+
+autor original del linset
+
+vk439
